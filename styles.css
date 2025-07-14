@@ -7,7 +7,7 @@ body {
     */
     font-family: italic 1.2rem "Fira Sans",serif;
     
-    background-color: #e1de16;
+    background-color: #3e444d;
 }
 
 .avatar {
@@ -25,6 +25,7 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    align-items: center;
     
     background: #858e9c;
     color: white;
