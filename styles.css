@@ -19,8 +19,8 @@ body {
 
 .card {
     font-size: 18px;
-    width: 400px;
-    margin: auto auto;
+    width: 600px;
+    margin: 100px auto 100px auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
